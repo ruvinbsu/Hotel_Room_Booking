@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3e5848a-a602-4ab8-ae22-5fe8ef6d9b2b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/Apartment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Booking.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/booking/Booking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/view/BookingCommonMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/state/BookingContext.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/view/BookingCreditCardPayment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/booking/BookingManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/booking/BookingOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/view/BookingPayPalPayment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/view/BookingPaymentType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/view/BookingRegistration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/view/BookingRoomRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/view/BookingRoomSelection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/state/BookingState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/state/CancelBookingState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/CreditCardPayment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/DoubleRoom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/DoubleTwin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/FamilyStudio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/state/FinishedBookingState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/csv/handling/GenerateBookingCSV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/JuniorSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PayPalPayment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaymentFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/state/PaymentForBookingState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaymentMethod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaymentStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/csv/handling/ReadFromCSV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/state/RegistrationForBookingState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Room.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/Room.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RoomBooking.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StartPoint/RoomBookingApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/RoomFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/RoomManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/RoomParameter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/room/SingleRoom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/roombooking/uom/model/state/StartBookingState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="RoomBooking.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RoomBooking" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/booking/BookingProcess.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/test.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/booking/Main.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/CustomerRoomSelection.java" />
+        <option value="$PROJECT_DIR$/src/csv/handling/GenerateCustomerCSV.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/customer/CustomerManager.java" />
+        <option value="$PROJECT_DIR$/src/exceptions/Test.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/CustomerPayment.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/CustomerRoomRequest.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/CustomerRegistration.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/state/PendingBookingState.java" />
+        <option value="$PROJECT_DIR$/src/StartPoint/Main.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/nothing.form" />
+        <option value="$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/payment/PaymentMethod.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/CreditCardStrategy.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaypalStrategy.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/BookingPayment.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaymentMethod.java" />
+        <option value="$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/POSTerminalApplication.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/BookingOrder.java" />
+        <option value="$PROJECT_DIR$/src/StartPoint/RoomBookingApplication.java" />
+        <option value="$PROJECT_DIR$/Booking.csv" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/room/Room.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/BookingRegistration.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/BookingRoomRequest.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/BookingCommonMenu.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/state/BookingState.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/state/CancelBookingState.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/state/FinishedBookingState.java" />
+        <option value="$PROJECT_DIR$/src/csv/handling/ReadFromCSV.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaymentStrategy.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/BookingRoomSelection.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/BookingPaymentType.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/CreditCardPayment.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PayPalPayment.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/room/Apartment.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/room/JuniorSuite.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/room/RoomParameter.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/factory/room/RoomFactory.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/room/RoomManager.java" />
+        <option value="$PROJECT_DIR$/src/csv/handling/GenerateBookingCSV.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/booking/BookingOrder.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/booking/Booking.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/BookingCreditCardPayment.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/view/BookingPayPalPayment.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaymentFactory.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/booking/BookingManager.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/state/BookingContext.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/state/StartBookingState.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/state/RegistrationForBookingState.java" />
+        <option value="$PROJECT_DIR$/src/roombooking/uom/model/state/PaymentForBookingState.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoomBooking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="SearchEverywhereHistory" value="so" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/cmd/git.exe" />
+  </component>
+  <component name="RunManager" selected="Application.RoomBookingApplication">
+    <configuration default="false" name="RoomBookingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="roombooking.uom.model.booking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="StartPoint.RoomBookingApplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RoomBooking" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="exceptions.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RoomBooking" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Bio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="roombooking.uom.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="roombooking.uom.view.Bio2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RoomBooking" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.RoomBookingApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Bio2" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.RoomBookingApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Bio2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3e5848a-a602-4ab8-ae22-5fe8ef6d9b2b" name="Default" comment="" />
+      <created>1393117282595</created>
+      <updated>1393117282595</updated>
+      <workItem from="1393117303030" duration="2092000" />
+      <workItem from="1393121611306" duration="3393000" />
+      <workItem from="1393164269644" duration="15787000" />
+      <workItem from="1393194639960" duration="3466000" />
+      <workItem from="1393240005979" duration="34811000" />
+      <workItem from="1393304076596" duration="107000" />
+      <workItem from="1393333670724" duration="6460000" />
+      <workItem from="1393422015246" duration="13328000" />
+      <workItem from="1393589656266" duration="7322000" />
+      <workItem from="1393659522679" duration="59101000" />
+      <workItem from="1393759832915" duration="84982000" />
+      <workItem from="1394206971236" duration="4665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="235514000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3215661" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980132" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271523" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33907285" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24646984" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33907285" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271523" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="RoomBooking" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="RoomBooking" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/jre/lib/rt.jar!/java/util/Scanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="218" column="15" selection-start="8993" selection-end="8993" vertical-scroll-proportion="0.3325893" vertical-offset="3540" max-vertical-offset="4386" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/jre/lib/rt.jar!/java/util/UUID.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="287" selection-end="287" vertical-scroll-proportion="0.14366198" vertical-offset="0" max-vertical-offset="935" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/payment/PaymentStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="36" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/payment/CardPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="37" selection-start="411" selection-end="411" vertical-scroll-proportion="0.484985" vertical-offset="0" max-vertical-offset="666" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/payment/CashPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="666" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/payment/PaymentMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="27" selection-start="100" selection-end="100" vertical-scroll-proportion="0.123726346" vertical-offset="0" max-vertical-offset="687" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/payment/CouponPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="479" selection-end="479" vertical-scroll-proportion="0.49490538" vertical-offset="0" max-vertical-offset="687" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/payment/PaymentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="27" selection-start="361" selection-end="361" vertical-scroll-proportion="0.33183184" vertical-offset="0" max-vertical-offset="666" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="5" selection-start="925" selection-end="925" vertical-scroll-proportion="0.2954876" vertical-offset="273" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/Pattern Based Software Development/RUVIN SATTLER/POSTerminalApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="28" selection-start="2083" selection-end="2083" vertical-scroll-proportion="0.8151383" vertical-offset="341" max-vertical-offset="1122" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/jre/lib/rt.jar!/java/util/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="12" selection-start="401" selection-end="401" vertical-scroll-proportion="0.33174226" vertical-offset="167" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Booking.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="512" selection-end="512" vertical-scroll-proportion="0.6238532" vertical-offset="0" max-vertical-offset="436">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/jre/lib/rt.jar!/java/lang/NumberFormatException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="524" selection-end="524" vertical-scroll-proportion="0.45850623" vertical-offset="0" max-vertical-offset="482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/view/BookingCommonMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="20" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.0" vertical-offset="424" max-vertical-offset="1241">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/view/BookingRoomSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="9" selection-start="1287" selection-end="1287" vertical-scroll-proportion="0.0" vertical-offset="267" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/view/BookingRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="60" selection-start="425" selection-end="425" vertical-scroll-proportion="0.40756303" vertical-offset="44" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/view/BookingRoomRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="29" selection-start="318" selection-end="318" vertical-scroll-proportion="0.19222462" vertical-offset="64" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/strategy/payment/CreditCardPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="38" selection-start="444" selection-end="444" vertical-scroll-proportion="0.71428573" vertical-offset="34" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/SingleRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaymentMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/Apartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="25" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/FamilyStudio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/JuniorSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="22" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/RoomParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="109" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csv/handling/GenerateBookingCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="11" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/view/BookingPaymentType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="77" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/DoubleTwin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="17" selection-start="158" selection-end="158" vertical-scroll-proportion="0.24688797" vertical-offset="0" max-vertical-offset="482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/state/CancelBookingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="42" selection-start="168" selection-end="168" vertical-scroll-proportion="0.25158563" vertical-offset="0" max-vertical-offset="473">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/state/FinishedBookingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="44" selection-start="223" selection-end="223" vertical-scroll-proportion="0.039130434" vertical-offset="101" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/booking/BookingOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="7" selection-start="2927" selection-end="2927" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
+          <folding>
+            <element signature="e#2968#2969#0" expanded="false" />
+            <element signature="e#3006#3007#0" expanded="false" />
+            <element signature="e#3068#3069#0" expanded="false" />
+            <element signature="e#3122#3123#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3198#3199#0" expanded="false" />
+            <element signature="e#3256#3257#0" expanded="false" />
+            <element signature="e#3306#3307#0" expanded="false" />
+            <element signature="e#3348#3349#0" expanded="false" />
+            <element signature="e#3384#3385#0" expanded="false" />
+            <element signature="e#3444#3445#0" expanded="false" />
+            <element signature="e#3494#3495#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/booking/Booking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2307#2308#0" expanded="true" />
+            <element signature="e#2345#2346#0" expanded="true" />
+            <element signature="e#2416#2417#0" expanded="true" />
+            <element signature="e#2470#2471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaymentFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/state/BookingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StartPoint/RoomBookingApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="20" selection-start="1327" selection-end="1327" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="697">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/state/BookingContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="17" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1139">
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#503#504#0" expanded="false" />
+            <element signature="e#538#539#0" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
+            <element signature="e#648#649#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#757#758#0" expanded="false" />
+            <element signature="e#810#811#0" expanded="false" />
+            <element signature="e#844#845#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PaymentStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="17" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/RoomManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="9" selection-start="2433" selection-end="2433" vertical-scroll-proportion="0.1937799" vertical-offset="990" max-vertical-offset="1649">
+          <folding>
+            <element signature="e#424#439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/strategy/payment/PayPalPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="25" selection-start="482" selection-end="482" vertical-scroll-proportion="0.789823" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/booking/BookingManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="32" selection-start="2390" selection-end="2390" vertical-scroll-proportion="0.9579646" vertical-offset="502" max-vertical-offset="1530">
+          <folding>
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#3060#3061#0" expanded="true" />
+            <element signature="e#3094#3095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/RoomFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.3761062" vertical-offset="0" max-vertical-offset="1428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/state/PaymentForBookingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="13" selection-start="1860" selection-end="1860" vertical-scroll-proportion="0.86283183" vertical-offset="256" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/csv/handling/ReadFromCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="15" selection-start="430" selection-end="431" vertical-scroll-proportion="0.41860464" vertical-offset="6" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="22" selection-start="376" selection-end="376" vertical-scroll-proportion="-0.02173913" vertical-offset="129" max-vertical-offset="1445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/room/DoubleRoom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="172" selection-end="172" vertical-scroll-proportion="0.35940802" vertical-offset="0" max-vertical-offset="473">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/view/BookingCreditCardPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.4989429" vertical-offset="206" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/view/BookingPayPalPayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.2114165" vertical-offset="104" max-vertical-offset="833">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/state/RegistrationForBookingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="64" selection-start="1665" selection-end="1665" vertical-scroll-proportion="1.1860465" vertical-offset="85" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roombooking/uom/model/state/StartBookingState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="76" selection-start="1449" selection-end="1449" vertical-scroll-proportion="0.9704017" vertical-offset="0" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
